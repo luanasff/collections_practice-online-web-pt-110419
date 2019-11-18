@@ -20,8 +20,8 @@ def swap_elements(array)
 end 
 
 def reverse_array(array)
-  array.sort.reverse
-  return array
+  new_array=array.sort.reverse
+  return new_array
 end 
 
 
