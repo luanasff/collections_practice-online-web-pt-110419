@@ -40,6 +40,10 @@ end
 
 
 def add_s(array)
-  
+  def add_s(input)
+  input.each_with_index.map do |element, index|
+    index == 1 ? element : element + "s"
+  end
+end
 
 end 
