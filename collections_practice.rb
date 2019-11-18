@@ -25,9 +25,7 @@ end
 
 
 def kesha_maker(array)
-
-  
-puts array
+array.map { |x| x.to_s }[3].chars.third 
 end 
 
 
