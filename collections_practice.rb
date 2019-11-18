@@ -25,10 +25,7 @@ end
 
 
 def kesha_maker(array)
-  new_array=array.gsub("a") do |letter|
-  puts "I've met letter: " + letter
-  "*"
-end
+
 end 
 
 
