@@ -26,7 +26,7 @@ end
 
 def kesha_maker(array)
   array.collect! { |element|
-   (element(3)) ? "$" : element
+   (third.element) ? "$" : element
 }
 puts array
 end 
