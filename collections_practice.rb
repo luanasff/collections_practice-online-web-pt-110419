@@ -12,3 +12,7 @@ end
 def sort_array_char_count(array)
   array= array.sort_by {|x| x.length}
 end 
+
+
+def swap_elements(array)
+  
