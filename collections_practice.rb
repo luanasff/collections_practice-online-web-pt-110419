@@ -40,6 +40,6 @@ end
 
 
 def add_s(array)
-  array.map { |element| element +
-"s"}
+  
+
 end 
